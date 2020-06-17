@@ -8,11 +8,13 @@ end
 
 def add_element_to_end_of_array(array, element)
   animal_crossing = ["Timmy","Tommy","Fang","Gladys"]
+  new_villager ="Sherb"
   puts animal_crossing.push "Sherb"
 end
 
 def add_element_to_start_of_array(array, element)
   animal_crossing = ["Timmy","Tommy","Fang","Gladys"]
+  new_villager 
   puts animal_crossing.unshift "Zucker"
 end
 
