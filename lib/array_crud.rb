@@ -29,8 +29,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  animal_crossing = ["wow","am","Fang",]
-  animal_crossing[1]
+  animal_crossing = ["wow","Tommy","am",]
+  animal_crossing[2]
 end
 
 def retrieve_first_element_from_array(array)
