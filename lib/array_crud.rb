@@ -7,11 +7,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  animal_crossing.push "Sherb"
+  puts animal_crossing.push "Sherb"
 end
 
 def add_element_to_start_of_array(array, element)
-  animal_crossing.unshift "Zucker"
+  puts animal_crossing.unshift "Zucker"
 end
 
 def remove_element_from_end_of_array(array)
