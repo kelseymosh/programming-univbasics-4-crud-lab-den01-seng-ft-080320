@@ -45,4 +45,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   animal_crossing = ["Fang","wow","Tommy","arrays!", "totally"]
+  animal_crossing[4]
 end
