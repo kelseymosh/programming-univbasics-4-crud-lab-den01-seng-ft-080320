@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   animal_crossing = ["Timmy","Tommy","Fang","Gladys"]
-  new_villager = "Zucker"
+  new_villager = "wow"
   animal_crossing.unshift(new_villager)
 end
 
