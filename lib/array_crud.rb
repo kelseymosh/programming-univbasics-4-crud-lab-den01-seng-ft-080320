@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   animal_crossing = ["Timmy","Tommy","Fang","Gladys"]
   new_villager = "Sherb"
-  puts animal_crossing.push "Sherb"
+  animal_crossing.push(new_villager)
 end
 
 def add_element_to_start_of_array(array, element)
