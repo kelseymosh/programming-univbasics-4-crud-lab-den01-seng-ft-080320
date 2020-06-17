@@ -19,7 +19,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  animal_crossing = ["Timmy","Tommy","Fang","Gladys"]
+  animal_crossing = ["wow","Tommy","Fang","arrays!"]
   animal_crossing.pop
 end
 
