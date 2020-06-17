@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   animal_crossing = ["Timmy","Tommy","Fang","Gladys"]
-  new_villager = "Sherb"
+  new_villager = "arrays!"
   animal_crossing.push(new_villager)
 end
 
