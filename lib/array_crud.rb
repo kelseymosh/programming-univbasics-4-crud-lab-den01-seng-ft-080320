@@ -14,8 +14,8 @@ end
 
 def add_element_to_start_of_array(array, element)
   animal_crossing = ["Timmy","Tommy","Fang","Gladys"]
-  new_villager
-  puts animal_crossing.unshift "Zucker"
+  new_villager = "Zucker"
+  animal_crossing.unshift(new_villager)
 end
 
 def remove_element_from_end_of_array(array)
