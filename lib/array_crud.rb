@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  animal_crossing << "Sherb"
+  animal_crossing = ["Timmy","Tommy","Fang","Gladys"]
+  animal_crossing.push "Sherb"
 end
 
 def add_element_to_start_of_array(array, element)
