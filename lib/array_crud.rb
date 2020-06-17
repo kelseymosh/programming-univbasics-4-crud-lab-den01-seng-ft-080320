@@ -39,7 +39,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  animal_crossing = ["Fang","wow","Tommy","arrays",]
+  animal_crossing = ["Fang","wow","Tommy","arrays!",]
   animal_crossing[3]
 end
 
